@@ -7,7 +7,7 @@ I wanted to make it accessible to folks who don't know about browser console. <b
 Check out the live preview here: 
 https://suminohh.github.io/TOP-RockPaperScissors/
 
-Pseudocode
+Logic
 
 1. Create function for bot to randomly return 'Rock', 'Paper', or 'Scissors'
 
